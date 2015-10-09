@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmojisApp</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="message_dialog">OK</string>
+    <string name="title_activity_emojis">EmojisActivity</string>
+
+</resources>
